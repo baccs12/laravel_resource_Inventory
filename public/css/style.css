@@ -1,0 +1,118 @@
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+
+p {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+
+/*body {
+background-image: url("bg.jpg");
+}
+*/
+.pageheader h1 {
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-size: 60px;
+}
+
+
+.buttons {
+    width: 774px;
+    margin: 0 auto;
+}
+
+
+.buttons ul {
+    list-style: none;
+    padding: 0;
+}
+
+.buttons ul li {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+ /*background: #1Db954;*/
+    padding: 10px;
+}
+
+.buttons a {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    margin: 0 auto;
+}
+
+
+.usericon {
+    width: 150px;
+    height: auto;
+}
+
+.updateicon {
+    width: 150px;
+    height: auto;
+}
+
+.suppliericon {
+    width: 150px;
+    height: auto;
+}
+
+.itemicon {
+    width: 150px;
+    height: auto;
+}
+
+.addform {
+    margin: 0 auto;
+    color: white;
+    width: 40%;
+}
+
+.addform .btn{
+    float: right;
+    width: 50%;
+}
+
+.btn {
+    margin-top: 25px;
+    float:right;
+
+}
+
+
+.table {
+    color: black;
+    background-color: gray;
+
+}
+
+label {
+    color: black;
+}
+
+td {
+    font-size: 20px;
+}
+
+td a {
+    text-decoration: none;
+    color: black;
+    vertical-align: center;
+}
+
+
+table thead th {
+    text-align: center;
+    font-size: 30px;
+}
+
+table tbody tr td {
+    text-align: center;
+}
